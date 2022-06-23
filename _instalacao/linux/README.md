@@ -8,13 +8,13 @@
 
 - Curl
 - Git
-- Java JDK 11 ou 17
+- Java JDK 17
 - Maven
 - STS
 - Postman
-- Postgresql e pgAdmin
 - Heroku CLI
 - NodeJS 16.x (https://nodejs.org/en/download/)
+- Yarn
 - VS Code
 
 ## Playlist mostrando a instalação:
@@ -44,13 +44,9 @@ sudo apt-get install -y git
 git
 ```
 
-## Java JDK 11 ou 17
+## Java JDK 17
 
 - Instalar Java: 
-```
-sudo apt install openjdk-11-jdk
-```
-
 ```
 sudo apt install openjdk-17-jdk
 ```
@@ -111,18 +107,6 @@ sudo chmod -R ugo+rw /home/user/Workspaces/ws-sts
 snap install postman
 ```
 
-## Postgresql
-
-```
-https://www.postgresql.org/download/linux/ubuntu/
-```
-
-## pgAdmin
-
-```
-https://www.pgadmin.org/download/pgadmin-4-apt/
-```
-
 ## Heroku CLI
 
 ```
@@ -139,7 +123,7 @@ curl -sL https://deb.nodesource.com/setup_16.x | sudo -E bash -
 sudo apt-get install nodejs
 ```
 
-## YARN (Caso queira usar o YARN ao invés do NPM)
+## YARN 
 No Debian e no Ubuntu:
 ```
  curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -

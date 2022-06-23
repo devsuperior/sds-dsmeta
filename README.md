@@ -1,4 +1,4 @@
-# ![DevSuperior logo](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png) Semana Spring React - 9 a 15 de Maio
+# ![DevSuperior logo](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png) Semana Spring React - 11 a 17 de julho
 >  *Crie um app completo para seu portfólio com as tecnologias mais demandadas do mercado*
 
 ## Realização
@@ -11,12 +11,12 @@
 - [Página de inscrição - Semana Spring React](https://devsuperior.com.br/sds-inscricao-org)
 
 ## Guias de instalação das ferramentas
-- [Guia de instalação das ferramentas no Windows](https://github.com/devsuperior/sds-dsmovie/tree/main/_instalacao/windows)
-- [Guia de instalação das ferramentas no Linux](https://github.com/devsuperior/sds-dsmovie/tree/main/_instalacao/linux)
-- [Guia de instalação das ferramentas no Mac](https://github.com/devsuperior/sds-dsmovie/tree/main/_instalacao/mac)
+- [Guia de instalação das ferramentas no Windows](https://github.com/devsuperior/sds-dsmeta/tree/main/_instalacao/windows)
+- [Guia de instalação das ferramentas no Linux](https://github.com/devsuperior/sds-dsmeta/tree/main/_instalacao/linux)
+- [Guia de instalação das ferramentas no Mac](https://github.com/devsuperior/sds-dsmeta/tree/main/_instalacao/mac)
 
 ## Discord do evento para dúvidas e networking
-- [Discord da Semana Spring React](https://discord.gg/sjm6AqWxz2)
+- [Discord da Semana Spring React](https://discord.gg/Gj4yyp5Kcn)
 
 
 ## Conteúdos de preparação

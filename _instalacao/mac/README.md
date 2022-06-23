@@ -6,10 +6,9 @@
 
 ## Ferramentas que você deverá instalar no seu computador:
 
-- JDK 11 ou 17
+- JDK 17
 - STS
 - Postman
-- Postgresql e pgAdmin
 - Heroku CLI
 - NodeJS 16.x (https://nodejs.org/en/download/)
 - VS Code
@@ -28,12 +27,7 @@ $ brew update
 $ brew tap homebrew/cask-versions
 ```
 
-## Java 11 ou 17 no MacOS
-```
-$ brew tap AdoptOpenJDK/openjdk
-$ brew install --cask adoptopenjdk11
-```
-
+## Java 17 no MacOS
 ```
 $ brew tap AdoptOpenJDK/openjdk
 $ brew install --cask adoptopenjdk17
@@ -52,28 +46,6 @@ $ brew cask install springtoolsuite
 ## postman 
 ```
 $ brew cask install postman
-```
-
-## postgresql 
-```
-$ brew install postgresql
-```
-- Se você for criar um banco de dados local, execute o seguinte comando para iniciar o servidor e fazer login nele (basicamente, ele configura um único usuário "admin" com seu nome de usuário com quem você fará o login) :
-```
-$ brew services start postgresql
-```
-- Para o servidor
-```
-brew services stop postgresql
-```
-- Terminal do Postgres (use ``` \q ``` para sair)
-```
-$ psql postgres
-```
-
-## pgadmin4 
-```
-$ brew cask install pgadmin4
 ```
 
 ## Heroku CLI 
