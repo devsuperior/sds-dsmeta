@@ -18,24 +18,32 @@
 
 ## Design Figma
 
-https://www.figma.com/file/EN1zFtk4eY3Jgmpgi9YaMG/DSMeta1
+https://www.figma.com/file/PehiT8Dw4Lv5ioTSULZeRI/DSMeta3
 
 https://www.figma.com/file/Yu2RHFmirHQ4BIVZM2XxY6/DSMeta2
 
-https://www.figma.com/file/PehiT8Dw4Lv5ioTSULZeRI/DSMeta3
+https://www.figma.com/file/EN1zFtk4eY3Jgmpgi9YaMG/DSMeta1
 
 ## Pré-requisito: Git instalado
 
-[![Image](https://img.youtube.com/vi/_hZf1teRFNg/mqdefault.jpg "Vídeo no Youtube")](https://youtu.be/_hZf1teRFNg)
+**DÚVIDAS**: veja o canal `#duvidas-frequentes` no Discord do evento
 
+[![Image](https://img.youtube.com/vi/_hZf1teRFNg/mqdefault.jpg "Vídeo no Youtube")](https://youtu.be/_hZf1teRFNg)
 
 ## Ferramentas
 
-- Nodejs 16 e Yarn
-- STS
+**DÚVIDAS**: veja o canal `#duvidas-frequentes` no Discord do evento
+
+- Nodejs 16 e Yarn (vídeo: https://youtu.be/x5tgFTS-CYA )
+- STS (vídeo: https://youtu.be/TGQ0K9QsX88 )
 - VS Code
+  - `IntelliCode`
+  - `ESLint`
+  - `JSX HTML <tags/>`
 
 ## Passo: criar projeto ReactJS
+
+**DÚVIDAS**: veja o canal `#duvidas-frequentes` no Discord do evento
 
 ![DevSuperior no Instagram](https://raw.githubusercontent.com/devsuperior/bds-assets/main/sds/pastas-dsmeta.png)
 
@@ -43,7 +51,7 @@ https://www.figma.com/file/PehiT8Dw4Lv5ioTSULZeRI/DSMeta3
 yarn create vite frontend --template react-ts
 ```
 
-- ATENÇÃO: veja canal #duvidas-frequentes no Discord
+**DÚVIDAS**: veja o canal `#duvidas-frequentes` no Discord do evento
 
 IMPORTANTE: deletar subpasta .git se houver
 - *Lembrete: ver extensões e arquivos ocultos*
@@ -70,7 +78,7 @@ IMPORTANTE: deletar subpasta .git se houver
 
 ## Passo: salvar primeira versão no Github
 
-- ATENÇÃO: veja canal #duvidas-frequentes no Discord
+**DÚVIDAS**: veja o canal `#duvidas-frequentes` no Discord do evento
 
 ```bash
 git init
@@ -88,34 +96,14 @@ git push -u origin main
 
 ## Passo: "limpar" o projeto ReactJS
 
-- index.css
-```css
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
+Vamos pegar o CSS que fizemos nas aulas de preparação:
 
-* {
-  font-family: "Roboto", sans-serif;
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-}
+https://github.com/acenelio/dsmeta-css
 
-a,
-a:hover {
-  color: unset;
-  text-decoration: none;
-}
-
-body, html {
-  background-color: #000;
-  color: #fff;
-}
-```
 
 - **COMMIT: Project clean**
 
 ## Passo: Primeiro componente
-
-https://github.com/devsuperior/dsmeta-css
 
 - **COMMIT: First component**
 
