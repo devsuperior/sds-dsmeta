@@ -143,6 +143,7 @@ Macete para criar uma data de X dias atrás:
 const date = new Date(new Date().setDate(new Date().getDate() - 365));
 ```
 
+- **COMMIT: useState**
 
 
 ## PARABÉNS!
