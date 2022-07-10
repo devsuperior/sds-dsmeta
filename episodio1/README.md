@@ -43,8 +43,6 @@ https://www.figma.com/file/EN1zFtk4eY3Jgmpgi9YaMG/DSMeta1
 
 ## Passo: criar projeto ReactJS
 
-**DÚVIDAS**: veja o canal `#duvidas-frequentes` no Discord do evento
-
 ![DevSuperior no Instagram](https://raw.githubusercontent.com/devsuperior/bds-assets/main/sds/pastas-dsmeta.png)
 
 ```
@@ -52,9 +50,6 @@ yarn create vite frontend --template react-ts
 ```
 
 **DÚVIDAS**: veja o canal `#duvidas-frequentes` no Discord do evento
-
-IMPORTANTE: deletar subpasta .git se houver
-- *Lembrete: ver extensões e arquivos ocultos*
 
 ## Passo: criar projeto Spring Boot
 
