@@ -264,10 +264,7 @@ public class SmsService {
 	@Value("${twilio.phone.to}")
 	private String twilioPhoneTo;
 
-	@Autowired
-	private SaleRepository repository;
-
-	public void notifyBestSeller(Long id) {
+	public void sendSms() {
 
 		Twilio.init(twilioSid, twilioKey);
 
