@@ -63,6 +63,8 @@ https://www.netlify.com/
   - Base directory: frontend
   - Build command: yarn build
   - Publish directory: frontend/dist
+  - Variáveis de ambiente:
+    - VITE_BACKEND_URL
 
 - Configurações adicionais
   - Site settings -> Domain Management: (colocar o nome que você quiser)
