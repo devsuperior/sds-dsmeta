@@ -21,15 +21,15 @@
 yarn add axios@0.27.2
 ```
 
+- **COMMIT: Axios, useEffect first request**
+
+## Passo: Listagem de vendas
+
 Definição da BASE_URL:
 
 ```javascript
 export const BASE_URL = import.meta.env.VITE_BACKEND_URL ?? "http://localhost:8080";
 ```
-
-- **COMMIT: Axios, useEffect first request**
-
-## Passo: Listagem de vendas
 
 - **COMMIT: Sale listing**
 
