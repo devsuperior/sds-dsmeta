@@ -16,7 +16,7 @@
 - [Guia de instalação das ferramentas no Mac](https://github.com/devsuperior/sds-dsmeta/tree/main/_instalacao/mac)
 
 ## Discord do evento para dúvidas e networking
-- [Discord da Semana Spring React](https://discord.gg/Gj4yyp5Kcn)
+- [Discord da Semana Spring React](https://discord.gg/8tGRs5R4fS)
 
 
 ## Conteúdos de preparação
@@ -25,18 +25,14 @@
 
 [![Image](https://img.youtube.com/vi/_hZf1teRFNg/mqdefault.jpg "Vídeo no Youtube")](https://youtu.be/_hZf1teRFNg)
 
-### 2) Super revisão de OO e SQL
+### 2) HTML e CSS a partir do Figma 1/2
 
-[![Image](https://img.youtube.com/vi/xC_yKw3MYX4/mqdefault.jpg "Vídeo no Youtube")](https://youtu.be/xC_yKw3MYX4)
+[![Image](https://img.youtube.com/vi/FYgIpVf9TBI/mqdefault.jpg "Vídeo no Youtube")](https://youtu.be/FYgIpVf9TBI)
 
-### 3) Seu primeiro projeto Java web no Spring Boot
+### 3) HTML e CSS a partir do Figma 2/2
+
+[![Image](https://img.youtube.com/vi/EsQ07Og1yFM/mqdefault.jpg "Vídeo no Youtube")](https://youtu.be/EsQ07Og1yFM)
+
+### 4) Seu primeiro projeto Java web no Spring Boot
 
 [![Image](https://img.youtube.com/vi/D4frmIHAxEY/mqdefault.jpg "Vídeo no Youtube")](https://youtu.be/D4frmIHAxEY)
-
-### 4) JpaRepository: interface boladona do Spring
-
-[![Image](https://img.youtube.com/vi/jh_T5_o3qKE/mqdefault.jpg "Vídeo no Youtube")](https://youtu.be/jh_T5_o3qKE)
-
-### 5) ReactJS primeiros passos - Introdução Prática
-
-[![Image](https://img.youtube.com/vi/IOJoJGDowEY/mqdefault.jpg "Vídeo no Youtube")](https://youtu.be/IOJoJGDowEY)
